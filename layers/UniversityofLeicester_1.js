@@ -1,0 +1,1 @@
+var json_UniversityofLeicester_1 = {"type":"FeatureCollection","name":"UniversityofLeicester_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-1.124577188533432,52.620493283048575]}}]}
